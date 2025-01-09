@@ -59,6 +59,9 @@ namespace TrainingUnit
             }
 
             Console.WriteLine("It is first commit");
+            Console.WriteLine("It is new branch");
+            Console.WriteLine("It is new branch 2 new commit");
+
 
             Console.ReadLine();
         }
