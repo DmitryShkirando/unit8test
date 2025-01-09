@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\BreakAndContinue\bin\Debug\BreakAndContinue.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\BreakAndContinue\bin\Debug\BreakAndContinue.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\BreakAndContinue\bin\Debug\BreakAndContinue.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\BreakAndContinue\obj\Debug\BreakAndContinue.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\BreakAndContinue\obj\Debug\BreakAndContinue.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\BreakAndContinue\obj\Debug\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\BreakAndContinue\obj\Debug\BreakAndContinue.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\BreakAndContinue\obj\Debug\BreakAndContinue.pdb

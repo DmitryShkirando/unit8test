@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Peso4nica\bin\Debug\Peso4nica.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Peso4nica\bin\Debug\Peso4nica.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Peso4nica\bin\Debug\Peso4nica.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Peso4nica\obj\Debug\Peso4nica.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Peso4nica\obj\Debug\Peso4nica.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Peso4nica\obj\Debug\Peso4nica.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Peso4nica\obj\Debug\Peso4nica.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Peso4nica\obj\Debug\Peso4nica.pdb

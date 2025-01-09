@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Math\bin\Debug\Math.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Math\bin\Debug\Math.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Math\bin\Debug\Math.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Math\obj\Debug\Math.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Math\obj\Debug\Math.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Math\obj\Debug\Math.pdb

@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\RandomArray\bin\Debug\RandomArray.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\RandomArray\bin\Debug\RandomArray.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\RandomArray\bin\Debug\RandomArray.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\RandomArray\obj\Debug\RandomArray.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\RandomArray\obj\Debug\RandomArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\RandomArray\obj\Debug\RandomArray.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\RandomArray\obj\Debug\RandomArray.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\RandomArray\obj\Debug\RandomArray.pdb

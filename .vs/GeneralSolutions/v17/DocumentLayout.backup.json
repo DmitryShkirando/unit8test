@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d.shkirando\\source\\repos\\Learning\\testforunit8temporary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEFCA2C-189A-4F31-80CD-6CE97649B8F2}|TrainingUnit\\TrainingUnit.csproj|c:\\users\\d.shkirando\\source\\repos\\learning\\testforunit8temporary\\trainingunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEFCA2C-189A-4F31-80CD-6CE97649B8F2}|TrainingUnit\\TrainingUnit.csproj|solutionrelative:trainingunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E238D903-FD5F-40E5-A8D0-D8D7A99CCCFA}|..\\Array\\Array.csproj|c:\\users\\d.shkirando\\source\\repos\\learning\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d.shkirando\\source\\repos\\Learning\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Array\\Program.cs",
+              "ToolTip": "C:\\Users\\d.shkirando\\source\\repos\\Learning\\Array\\Program.cs",
+              "RelativeToolTip": "..\\Array\\Program.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:32:29.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d.shkirando\\source\\repos\\Learning\\testforunit8temporary\\TrainingUnit\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingUnit\\Program.cs",
+              "ToolTip": "C:\\Users\\d.shkirando\\source\\repos\\Learning\\testforunit8temporary\\TrainingUnit\\Program.cs",
+              "RelativeToolTip": "TrainingUnit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:31:10.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\TrainingUnit\bin\Debug\TrainingUnit.exe.config
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\TrainingUnit\bin\Debug\TrainingUnit.exe
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\TrainingUnit\bin\Debug\TrainingUnit.pdb
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\TrainingUnit\obj\Debug\TrainingUnit.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\TrainingUnit\obj\Debug\TrainingUnit.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\TrainingUnit\obj\Debug\TrainingUnit.exe
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\TrainingUnit\obj\Debug\TrainingUnit.pdb
+C:\Users\d.shkirando\source\repos\Learning\testforunit8temporary\TrainingUnit\bin\Debug\TrainingUnit.exe.config
+C:\Users\d.shkirando\source\repos\Learning\testforunit8temporary\TrainingUnit\bin\Debug\TrainingUnit.exe
+C:\Users\d.shkirando\source\repos\Learning\testforunit8temporary\TrainingUnit\bin\Debug\TrainingUnit.pdb
+C:\Users\d.shkirando\source\repos\Learning\testforunit8temporary\TrainingUnit\obj\Debug\TrainingUnit.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\Learning\testforunit8temporary\TrainingUnit\obj\Debug\TrainingUnit.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\Learning\testforunit8temporary\TrainingUnit\obj\Debug\TrainingUnit.exe
+C:\Users\d.shkirando\source\repos\Learning\testforunit8temporary\TrainingUnit\obj\Debug\TrainingUnit.pdb

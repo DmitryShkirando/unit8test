@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Сycle\bin\Debug\Сycle.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Сycle\bin\Debug\Сycle.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Сycle\bin\Debug\Сycle.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Сycle\obj\Debug\Сycle.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Сycle\obj\Debug\Сycle.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Сycle\obj\Debug\Сycle.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Сycle\obj\Debug\Сycle.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Сycle\obj\Debug\Сycle.pdb

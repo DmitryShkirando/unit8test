@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\bin\Debug\GeneralSolutions.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\bin\Debug\GeneralSolutions.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\bin\Debug\GeneralSolutions.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\obj\Debug\GeneralSolutions.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\obj\Debug\GeneralSolutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\obj\Debug\GeneralSolutions.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\obj\Debug\GeneralSolutions.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\obj\Debug\GeneralSolutions.pdb

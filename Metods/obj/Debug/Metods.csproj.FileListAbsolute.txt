@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Metods\bin\Debug\Metods.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Metods\bin\Debug\Metods.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Metods\bin\Debug\Metods.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Metods\obj\Debug\Metods.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Metods\obj\Debug\Metods.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Metods\obj\Debug\Metods.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Metods\obj\Debug\Metods.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Metods\obj\Debug\Metods.pdb

@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ConstructionIFelse\bin\Debug\ConstructionIFelse.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ConstructionIFelse\bin\Debug\ConstructionIFelse.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ConstructionIFelse\bin\Debug\ConstructionIFelse.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ConstructionIFelse\obj\Debug\ConstructionIFelse.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ConstructionIFelse\obj\Debug\ConstructionIFelse.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ConstructionIFelse\obj\Debug\ConstructionIFelse.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ConstructionIFelse\obj\Debug\ConstructionIFelse.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ConstructionIFelse\obj\Debug\ConstructionIFelse.pdb

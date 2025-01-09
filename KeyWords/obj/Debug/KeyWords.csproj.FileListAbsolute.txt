@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\KeyWords\bin\Debug\KeyWords.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\KeyWords\bin\Debug\KeyWords.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\KeyWords\bin\Debug\KeyWords.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\KeyWords\obj\Debug\KeyWords.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\KeyWords\obj\Debug\KeyWords.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\KeyWords\obj\Debug\KeyWords.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\KeyWords\obj\Debug\KeyWords.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\KeyWords\obj\Debug\KeyWords.pdb

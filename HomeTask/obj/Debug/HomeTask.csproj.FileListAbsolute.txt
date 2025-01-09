@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\HomeTask\obj\Debug\HomeTask.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\HomeTask\obj\Debug\HomeTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\HomeTask\obj\Debug\HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\HomeTask\bin\Debug\HomeTask.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\HomeTask\bin\Debug\HomeTask.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\HomeTask\bin\Debug\HomeTask.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\HomeTask\obj\Debug\HomeTask.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\HomeTask\obj\Debug\HomeTask.pdb

@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ChangeArraySize\bin\Debug\ChangeArraySize.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ChangeArraySize\bin\Debug\ChangeArraySize.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ChangeArraySize\bin\Debug\ChangeArraySize.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ChangeArraySize\obj\Debug\ChangeArraySize.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ChangeArraySize\obj\Debug\ChangeArraySize.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ChangeArraySize\obj\Debug\ChangeArraySize.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ChangeArraySize\obj\Debug\ChangeArraySize.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ChangeArraySize\obj\Debug\ChangeArraySize.pdb

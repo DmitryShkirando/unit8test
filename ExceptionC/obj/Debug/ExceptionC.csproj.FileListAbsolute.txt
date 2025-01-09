@@ -1,0 +1,8 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ExceptionC\bin\Debug\ExceptionC.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ExceptionC\bin\Debug\ExceptionC.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ExceptionC\bin\Debug\ExceptionC.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ExceptionC\obj\Debug\ExceptionC.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ExceptionC\obj\Debug\ExceptionC.csproj.SuggestedBindingRedirects.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ExceptionC\obj\Debug\ExceptionC.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ExceptionC\obj\Debug\ExceptionC.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\ExceptionC\obj\Debug\ExceptionC.pdb

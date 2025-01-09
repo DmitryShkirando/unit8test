@@ -1,0 +1,14 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Vlad\bin\Debug\Vlad.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Vlad\bin\Debug\Vlad.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Vlad\bin\Debug\Vlad.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Vlad\obj\Debug\Vlad.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Vlad\obj\Debug\Vlad.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Vlad\obj\Debug\Vlad.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\Vlad\obj\Debug\Vlad.pdb
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\Vlad\bin\Debug\Vlad.exe.config
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\Vlad\bin\Debug\Vlad.exe
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\Vlad\bin\Debug\Vlad.pdb
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\Vlad\obj\Debug\Vlad.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\Vlad\obj\Debug\Vlad.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\Vlad\obj\Debug\Vlad.exe
+C:\Users\d.shkirando\source\repos\Learning\GeneralSolutions\Vlad\obj\Debug\Vlad.pdb

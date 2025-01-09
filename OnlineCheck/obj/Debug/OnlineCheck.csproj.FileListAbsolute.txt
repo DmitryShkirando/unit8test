@@ -1,0 +1,7 @@
+C:\Users\d.shkirando\source\repos\GeneralSolutions\OnlineCheck\bin\Debug\OnlineCheck.exe.config
+C:\Users\d.shkirando\source\repos\GeneralSolutions\OnlineCheck\bin\Debug\OnlineCheck.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\OnlineCheck\bin\Debug\OnlineCheck.pdb
+C:\Users\d.shkirando\source\repos\GeneralSolutions\OnlineCheck\obj\Debug\OnlineCheck.csproj.AssemblyReference.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\OnlineCheck\obj\Debug\OnlineCheck.csproj.CoreCompileInputs.cache
+C:\Users\d.shkirando\source\repos\GeneralSolutions\OnlineCheck\obj\Debug\OnlineCheck.exe
+C:\Users\d.shkirando\source\repos\GeneralSolutions\OnlineCheck\obj\Debug\OnlineCheck.pdb
